@@ -15,7 +15,7 @@ Pod은 자체 IP를 가지고 다른 Pod과 통신할 수 있지만, 쉽게 사�
   <custom-image src="/imgs/guide/service/pod-service.png" alt="Service" />
 </div>
 
-이러한 개념은 ~~도커에 익숙할수록~~ 처음 접하면 참 어렵습니다. 개념도 생소한데 노출 범위에 따라 CluterIP, NodePort, LoadBalancer 타입으로 나누어져 더욱 헷갈립니다. 하나씩 차근차근 알아봅시다.
+이러한 개념은 ~~도커에 익숙할수록~~ 처음 접하면 참 어렵습니다. 개념도 생소한데 노출 범위에 따라 ClusterIP, NodePort, LoadBalancer 타입으로 나누어져 더욱 헷갈립니다. 하나씩 차근차근 알아봅시다.
 
 [[toc]]
 
